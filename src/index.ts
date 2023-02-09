@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import './shared/services/TranslationsYup';
 
 import app from './app';
 
